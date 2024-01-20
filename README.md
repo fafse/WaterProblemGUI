@@ -13,11 +13,11 @@ Your program should write for each tes case one integer equal to the maximal vol
 
 Example
 Sample input:
-1
-3 6
-3 3 4 4 4 2
-3 1 3 2 1 4
-7 3 1 6 4 1
+1<br />
+3 6<br />
+3 3 4 4 4 2<br />
+3 1 3 2 1 4<br />
+7 3 1 6 4 1<br />
 
 Sample output:
 5
