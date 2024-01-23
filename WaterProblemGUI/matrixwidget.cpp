@@ -199,7 +199,7 @@ void MatrixWidget::on_getResultButton_clicked()
         // Режим с QPlainTextEdit
         enterFromPlainText();
     }
-    //TODO:кидать exception если число не так введено
+
     if(!validateMatrix())
     {
         QMessageBox::warning(this,"Ошибка","Проверьте данные матрицы на соответствие условиям");
